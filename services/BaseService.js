@@ -34,9 +34,7 @@ export class BaseService {
             method:'DELETE'
         })
         return promise;
-    }
-
-
-
-    
+    }   
 }
+console.log('Mình là userB Sĩ');
+
