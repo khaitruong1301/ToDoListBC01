@@ -111,3 +111,7 @@ document.getElementById('addItem').onclick = async (event) => {
 // =========================Nghiệp vụ xoá dữ liệu===================
 
 
+//Viết chức năng tìm kiếm
+let searchTask = (task) => {
+    console.log(task);
+}
